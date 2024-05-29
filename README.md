@@ -1,6 +1,7 @@
 
 <!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=abdulqayyum&theme=duskfox&starting_year=2023)](https://git.io/streak-stats)-->
 <p align="center">
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=abdulqayyum&theme=duskfox&starting_year=2023" alt="GitHub Streak" />
   </a>
