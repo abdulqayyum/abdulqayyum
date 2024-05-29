@@ -1,5 +1,5 @@
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=abdulqayyum&theme=duskfox&starting_year=2023)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=abdulqayyum&theme=duskfox&starting_year=2023)](https://git.io/streak-stats)-->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=abdulqayyum&theme=duskfox&starting_year=2023" alt="GitHub Streak" />
