@@ -1,5 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulqayyum&theme=duskfox&starting_year=2023)](https://git.io/streak-stats)
-
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=abdulqayyum&theme=duskfox&starting_year=2023)](https://git.io/streak-stats)
+</p>
 <!--
 **abdulqayyum/abdulqayyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
